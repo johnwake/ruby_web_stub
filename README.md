@@ -5,4 +5,6 @@ Install instructions for Sinarta
 http://www.sinatrarb.com/
 
 Create a new rvm version
-$ 
+$ touch .rvmrc
+
+$ touch Gemfile
