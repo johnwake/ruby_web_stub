@@ -9,7 +9,7 @@ $ cd ruby_web_stub
 $ bundle install
 
 How to run your simple Sinarta server off port=4567
-ruby -rubygems hello.rb
+$ ruby -rubygems hello.rb
 
 
 Install instructions for Sinarta
