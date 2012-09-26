@@ -1,5 +1,7 @@
-source "http://rubygems.org"
+source :rubygems
+gem "sinatra"
+gem "shotgun"
+gem "cucumber"
+gem "capybara"
+gem "rspec"
 
-gem "rake", "~> 0.9"
-gem "rspec", "~> 2.0"
-gem "sinatra", "1.0"
